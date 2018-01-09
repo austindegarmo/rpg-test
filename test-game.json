@@ -1,0 +1,245 @@
+{
+	"name": "Excellent RPG boi",
+	"meta": {
+		"author": "Stone Cold Steve Austin ",
+		"email": "Getfucked@gmail.com",
+		"tagline": "The extreme RPG of the century. Don't @ me",
+		"welcome": "Welcome to the most terrible place on earth, Aberdeen, Washington State"
+	},
+	"rooms": [{
+		"room1": {
+			"alias": "Amnesia and a hangover",
+			"description":"You awake, sore and hungover with no recollection of the last 36 hours. The last faint memory that you can recollect is of making denied advances on a witchish looking lass. The night almost immediately is blurried after you turn away from her to go be a foolish drunk elsewhere. You're still too hungover to be cynical about someone putting something in your whiskey, so you decide you should get your ass moving in a direction on this path leading to the north, and also south, with heavily wooded forest on both sides to the east and west. God knows you better get some water in you before you pass out again. It's almost as if it were essential to your quest.",
+			"contexualHelp": "Get your ass moving, right now you need to get some water in your or you're finna die boi",
+			"actions": null,
+			"exits": {
+				"north": "room2",
+				"east": "room4",
+				"south": "room6",
+				"west": "room3"
+			},
+			"objects": null,
+			"enemies": null
+		}
+	},{
+		"room2": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	},{
+		"room3": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	},{
+		"room4": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	},{
+		"room5": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	},{
+		"room6": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	},{
+		"room7": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	},{
+		"room8": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	},{
+		"room9": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	},{
+		"room10": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	},{
+		"room11": {
+			"alias": "big Castle boi",
+			"description": "",
+			"contexualHelp": "",
+			"actions": null,
+			"exits": {
+				"north": "",
+				"east": "",
+				"south": "",
+				"west": ""
+
+			},
+			"objects": {
+				"objectName": {
+					"actions": null
+				}
+
+			},
+			"enemies": null
+
+		}
+	}]
+}
