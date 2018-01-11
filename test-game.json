@@ -24,14 +24,14 @@
 	},{
 		"room2": {
 			"alias": "big Castle boi",
-			"description": "",
+			"description": "As you come upon a hulking sihouette, seemingly under the umbrella of large Eucalyptus trees casting shadows , completely shrowding the areas around and behind the Castle. Laden with overgrown cobblestone, the first aspect you notice is the lack of windows or other entraces beyond the hulking steel door.",
 			"contexualHelp": "",
 			"actions": null,
 			"exits": {
-				"north": "",
-				"east": "",
-				"south": "",
-				"west": ""
+				"north": "-1",
+				"east": "-1",
+				"south": "room1",
+				"west": "-1"
 
 			},
 			"objects": {
